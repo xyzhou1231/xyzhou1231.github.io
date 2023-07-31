@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👤 Biographies
 I am a current Masters student from Northwestern Polytechnic University.
 
 My research interest includes Signal processing, machine learning and mathematical modelling, etc. I have published more than 10 papers in related academic fields <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -34,10 +35,10 @@ My research interest includes Signal processing, machine learning and mathematic
 [Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
 
 Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
-
+[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (2021382)
 - A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
 - The hardware structure of the monitoring system was designed based on STM32 to achieve the acquisition of human ECG, temperature and posture signals. The solution model of human body sign parameters was designed to achieve the monitoring and management of the sign parameters such as heart rate, body temperature and exercise steps.
-- [**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (2021382)
+
 
 </div>
 </div>
