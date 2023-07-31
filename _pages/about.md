@@ -22,7 +22,7 @@ I am a current Masters student from Northwestern Polytechnic University.
 My research interest includes Signal processing, machine learning and mathematical modelling, etc. I have published more than 10 papers in related academic fields <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
+# 🔥 News(待更新)
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -40,17 +40,35 @@ My research interest includes Signal processing, machine learning and mathematic
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+
+
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.8*, "China Electrical Engineering Society Cup" National Student Mathematical Modelling Competition, national first prize, team award (team leader)
-- *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Prize
-- *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Prize
+- *2021.8*, "China Electrical Engineering Society Cup" National Student Mathematical Modelling Competition, national first prize, team Award (team leader)
+- *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
+- *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2021.5*,U.S. Collegiate Mathematical Modelling Contest, International Second Prize, Team Award (team leader)
 - *2023.7*,National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
 - *2019.9*,National University Student Mathematical Modelling Competition, Shaanxi Province First Prize, Team Award (team leader)
 - *2023.7*,National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
 - *2019.10*,Shaanxi Higher Mathematics Competition for College Students, First Prize in Shaanxi Province, Individual Award
+- 
 
 
 
@@ -58,9 +76,15 @@ My research interest includes Signal processing, machine learning and mathematic
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology,
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, Outstanding Graduation Thesis
 
+
+
+
+
 # 💬 Invited Talks（无）
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
