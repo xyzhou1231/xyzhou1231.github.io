@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-I am a current Masters student from Northwestern Polytechnic University.
-
-My research interest includes Signal processing, machine learning and mathematical modelling, etc. I have published more than 10 papers in related academic fields <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a current Masters student from Northwestern Polytechnic University.My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. I have published more than 10 papers in related academic fields. 
 
 
 # 🔥 News(待更新)
