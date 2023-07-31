@@ -62,7 +62,7 @@ Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.8*, "China Electrical Engineering Society Cup" National Student Mathematical Modelling Competition, national first prize, team Award (team leader)
+- [*2021.8*, "China Electrical Engineering Society Cup" National Student Mathematical Modelling Competition, national first prize, team Award (team leader)](https://github.com/zyshi007/Certificates/blob/main/%E7%94%B5%E5%B7%A5%E6%9D%AF.png)
 - *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2021.5*,U.S. Collegiate Mathematical Modelling Contest, International Second Prize, Team Award (team leader)
