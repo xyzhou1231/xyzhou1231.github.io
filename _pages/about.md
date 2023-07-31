@@ -42,9 +42,17 @@ My research interest includes Signal processing, machine learning and mathematic
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards（待更新）
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *2021.8*, "China Electrical Engineering Society Cup" National Student Mathematical Modelling Competition, national first prize, team award (team leader)
+- *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Prize
+- *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Prize
+- *2021.5*,U.S. Collegiate Mathematical Modelling Contest, International Second Prize, Team Award (team leader)
+- *2023.7*,National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
+- *2019.9*,National University Student Mathematical Modelling Competition, Shaanxi Province First Prize, Team Award (team leader)
+- *2023.7*,National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
+- *2019.10*,Shaanxi Higher Mathematics Competition for College Students, First Prize in Shaanxi Province, Individual Award
+
+
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology,
