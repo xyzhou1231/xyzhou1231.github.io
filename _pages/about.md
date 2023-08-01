@@ -21,11 +21,11 @@ redirect_from:
 I am a current Masters student from Northwestern Polytechnic University.My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. I have published more than 10 papers in related academic fields. 
 
 
-# 🔥 News(待更新)
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications （待更新）
+# 🔥 News
+- *2023.07*: &nbsp;🎉🎉 ICCSI Conference Paper Accepted.
+- *2023.07*: &nbsp;🎉🎉 National Second Prize in the Mathematical and Statistical Analysis Competition. 
+- *2023.07*: &nbsp;🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition. 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,8 +50,7 @@ Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 
 **Zhuoyong Shi**, Liuming Yang, Yong Wu, etc
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (2021382)
 </div>
 </div>
 
@@ -63,14 +62,14 @@ Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, national first prize, team Award (team leader)
+- *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
 - *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2021.5*,U.S. Collegiate Mathematical Modelling Contest, International Second Prize, Team Award (team leader)
 - *2023.7*,National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
 - *2019.9*,National University Student Mathematical Modelling Competition, Shaanxi Province First Prize, Team Award (team leader)
 - *2023.7*,National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
-- *2019.10*,Shaanxi Higher Mathematics Competition for College Students, First Prize in Shaanxi Province, Individual Award
+- *2019.10*,Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
 - To view all award certificates click [here](https://github.com/zyshi007/Certificates)
 
 
