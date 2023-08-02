@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/zyshi.github.io/#about-me"
+  - title: "Biographies"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/zyshi.github.io/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/zyshi.github.io/#-publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/zyshi.github.io/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/zyshi.github.io/#-educations"
+    url: "/#-educations"
 
   - title: "Invited Talks"
-    url: "/zyshi.github.io/#-invited-talks"
+    url: "/#-invited-talks"
 
   - title: "Internships"
-    url: "/zyshi.github.io/#-internships"
+    url: "/#-internships"
