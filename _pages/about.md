@@ -24,7 +24,9 @@ I am a current Masters student from Northwestern Polytechnic University.My resea
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 ICCSI Conference Paper Accepted.
 - *2023.07*: &nbsp;🎉🎉 National Second Prize in the Mathematical and Statistical Analysis Competition. 
-- *2023.07*: &nbsp;🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition. 
+- *2023.07*: &nbsp;🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition.
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
