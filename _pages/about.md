@@ -30,17 +30,16 @@ I am a current Masters student from Northwestern Polytechnic University.My resea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
+[UAV Trajectory Prediction Based on Flight State Recognition](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
 
-Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
+Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
 
-[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (2021382)
+[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) ;Key R&D Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 
-- A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
-- The hardware structure of the monitoring system was designed based on STM32 to achieve the acquisition of human ECG, temperature and posture signals. The solution model of human body sign parameters was designed to achieve the monitoring and management of the sign parameters such as heart rate, body temperature and exercise steps.
+- (待更新)
 
 
 </div>
@@ -56,7 +55,7 @@ Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 
 Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 
-[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (2021382)
+[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
 - A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
 - The hardware structure of the monitoring system was designed based on STM32 to achieve the acquisition of human ECG, temperature and posture signals. The solution model of human body sign parameters was designed to achieve the monitoring and management of the sign parameters such as heart rate, body temperature and exercise steps.
@@ -72,7 +71,7 @@ Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 
 **Zhuoyong Shi**, Liuming Yang, Yong Wu, etc
 
-[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (2021382)
+[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 </div>
 </div>
 
