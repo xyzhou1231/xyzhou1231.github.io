@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-I am a current Masters student from Northwestern Polytechnic University.My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. I have published more than 10 papers in related academic fields. 
+I am a current Masters student from Northwestern Polytechnic University.
+My major is Electronic Science and Technology.
+My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. 
+I have published more than 10 papers in related academic fields. <a href='https://scholar.google.com/citations?user=EtLfNlIAAAAJ&hl=en'>
 
 
 # 🔥 News
