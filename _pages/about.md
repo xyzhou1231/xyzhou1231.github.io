@@ -40,7 +40,9 @@ I have published more than 10 papers in related academic fields.
 
 Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
 
-  [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
+  [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
+<br>
+Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 - A UAV trajectory prediction model based on flight state recognition is proposed in the paper.
 First, UAV flight information acquisition and data preprocessing are carried out;
 Second, a UAV flight state recognition model is established based on the PCA-SVM model;
