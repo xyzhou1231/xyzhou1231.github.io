@@ -21,8 +21,8 @@ redirect_from:
 I am a current Masters student from Northwestern Polytechnic University.
 My major is Electronic Science and Technology.
 My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. 
-I have published more than 10 papers in related academic fields. [google scholar citations](https://scholar.google.com/citations?user=EtLfNlIAAAAJ&hl=en)
-[google scholar badge](https://scholar.google.com/citations?hl=en&user=EtLfNlIAAAAJ)
+I have published more than 10 papers in related academic fields.
+([google scholar badge](https://scholar.google.com/citations?hl=en&user=EtLfNlIAAAAJ))
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
