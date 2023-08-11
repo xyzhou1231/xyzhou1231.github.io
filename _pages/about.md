@@ -36,9 +36,7 @@ I have published more than 10 papers in related academic fields.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UAV Trajectory Prediction Based on Flight State Recognition](https://ieeexplore.ieee.org/document/10214303)
-
-Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
+[UAV Trajectory Prediction Based on Flight State Recognition](https://ieeexplore.ieee.org/document/10214303)"IEEE Transactions on Aerospace and Electronic Systems",Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
 
   [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
@@ -59,9 +57,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
-
-Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
+[Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)"Foreign Electronic Measurement Technology",Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 
 [**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
@@ -88,7 +84,7 @@ Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
 
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"Application of Electronic Technique",Zhang Anli, Xie Meng, **Shi Zhuoyong**.
 
 # 🎖 Honors and Awards
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
