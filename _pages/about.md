@@ -42,8 +42,9 @@ Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
   [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 一种基于飞行状态识别的无人机航迹预测模型在文中被提出。
 首先，进行无人机飞行信息采集和数据预处理；
-其次，基于 PCA-SVM 模型建立无人机飞行状态识别模型，识别无人机的五种飞行状态；
-最后，建立基于五种飞行状态识别的无人机飞行路径预测模型。
+其次，基于 PCA-SVM 模型建立无人机飞行状态识别模型；
+最后，建立基于五种飞行状态识别的无人机航迹预测模型。
+#本文提出的基于飞行状态识别的无人机航迹预测模型在未来无人机智能自主飞行领域将起到核心作用，它为自主飞行无人机对自身飞行状态的识别和航迹的预测提供帮助。
 
 
 </div>
