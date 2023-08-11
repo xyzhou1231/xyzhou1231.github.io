@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&&nbspace I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
+I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
 My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. 
 I have published more than 10 papers in related academic fields.
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=EtLfNlIAAAAJ))
@@ -39,10 +39,11 @@ I have published more than 10 papers in related academic fields.
 
 Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
 
-[**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) ;Key R&D Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
-
-- UAV trajectory prediction is the core technology for autonomous UAV flight and is a prerequisite for control and navigation.
-- In this paper, the UAV flight path prediction model is established by collecting the flight data of the actual UAV. 
+  [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
+一种基于飞行状态识别的无人机航迹预测模型在文中被提出。
+首先，进行无人机飞行信息采集和数据预处理；
+其次，基于 PCA-SVM 模型建立无人机飞行状态识别模型，识别无人机的五种飞行状态；
+最后，建立基于五种飞行状态识别的无人机飞行路径预测模型。
 
 
 </div>
