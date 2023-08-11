@@ -35,13 +35,14 @@ I have published more than 10 papers in related academic fields. <a href='https:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UAV Trajectory Prediction Based on Flight State Recognition](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
+[UAV Trajectory Prediction Based on Flight State Recognition](https://ieeexplore.ieee.org/document/10214303)
 
 Jiandong Zhang, **Zhuoyong Shi**, Anli Zhang, etc
 
-[**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) ;Key R&D Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
+[**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) ;Key R&D Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 
-- (待更新)
+- UAV trajectory prediction is the core technology for autonomous UAV flight and is a prerequisite for control and navigation.
+- In this paper, the UAV flight path prediction model is established by collecting the flight data of the actual UAV. 
 
 
 </div>
