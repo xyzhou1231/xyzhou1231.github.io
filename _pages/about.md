@@ -68,10 +68,10 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 </div>
 </div>
 
-
+- [Design of motion pattern recognition system based on artificial intelligence methods](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"2023 International Conference on Cyber-physical Social Intelligence",**Zhuoyong Shi***, Liuming Yang, Yong Wu, etc.
 
 - [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"Application of Electronic Technique", Anli Zhang, Meng Xie, **Zhuoyong Shi**.
-- [Design of motion pattern recognition system based on artificial intelligence methods](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"2023 International Conference on Cyber-physical Social Intelligence",**Zhuoyong Shi***, Liuming Yang, Yong Wu, etc.
+
 - [Design of Control System of Intelligent WiFi Car Based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHdiaUwvfvd7YbKh93N0jCuTPddwxaLlol0YPkl1ckX-N&uniplatform=NZKPT)"Automation & Instrumentation", Meng Xie, Zehui Zeng, Anli Zhang, **Zhuoyong Shi**.
 # 🎖 Honors and Awards
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
