@@ -21,7 +21,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. 
-I have published more than 10 papers in related academic fields.
+I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=EtLfNlIAAAAJ))
 
 # 🔥 News
@@ -73,7 +73,9 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 - [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"Application of Electronic Technique", Anli Zhang, Meng Xie, **Zhuoyong Shi**.
 
 - [Design of Control System of Intelligent WiFi Car Based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHdiaUwvfvd7YbKh93N0jCuTPddwxaLlol0YPkl1ckX-N&uniplatform=NZKPT)"Automation & Instrumentation", Meng Xie, Zehui Zeng, Anli Zhang, **Zhuoyong Shi**.
+- 
 # 🎖 Academic Competitions
+
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
 - *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
@@ -82,12 +84,12 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 - *2019.9*,National University Student Mathematical Modelling Competition, Shaanxi Province First Prize, Team Award (team leader)
 - *2023.7*,National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
 - *2019.10*,Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
-- To view all award certificates click [here](https://github.com/zyshi007/Certificates)
+&nbsp;&nbsp;&nbsp;&nbsp;To view all award certificates click [here](https://github.com/zyshi007/Certificates)
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology,
-- *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, Outstanding Graduation Thesis
+- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology, XX/XX
+- *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 
 
 
