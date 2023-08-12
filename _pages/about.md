@@ -57,7 +57,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)"Foreign Electronic Measurement Technology",Anli Zhang, **Zhuoyong Shi**, Mingbang Fan, etc
+[Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)"Foreign Electronic Measurement Technology",Anli Zhang, **Zhuoyong Shi**, etc
 
 [**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
