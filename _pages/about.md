@@ -73,7 +73,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 - [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"Application of Electronic Technique", Anli Zhang, Meng Xie, **Zhuoyong Shi**.
 
 - [Design of Control System of Intelligent WiFi Car Based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHdiaUwvfvd7YbKh93N0jCuTPddwxaLlol0YPkl1ckX-N&uniplatform=NZKPT)"Automation & Instrumentation", Meng Xie, Zehui Zeng, Anli Zhang, **Zhuoyong Shi**.
-# 🎖 Honors and Awards
+# 🎖 Academic Competitions
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
 - *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
@@ -88,14 +88,6 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology,
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, Outstanding Graduation Thesis
-
-
-
-
-
-# 💬 Invited Talks（无）
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 
 
