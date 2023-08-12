@@ -36,7 +36,7 @@ I have published more than 10 papers in related academic fields.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UAV Trajectory Prediction Based on Flight State Recognition](https://ieeexplore.ieee.org/document/10214303)"IEEE Transactions on Aerospace and Electronic Systems",Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, etc
+[UAV Trajectory Prediction Based on Flight State Recognition](https://ieeexplore.ieee.org/document/10214303)"IEEE Transactions on Aerospace and Electronic Systems",Jiandong Zhang, **Zhuoyong Shi***, etc
 
   [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
