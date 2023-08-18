@@ -74,7 +74,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 
 - [Design of Control System of Intelligent WiFi Car Based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHdiaUwvfvd7YbKh93N0jCuTPddwxaLlol0YPkl1ckX-N&uniplatform=NZKPT)"Automation & Instrumentation", Meng Xie, Zehui Zeng, Anli Zhang, **Zhuoyong Shi**.
 - 
-# 🎖 Academic Competitions
+# 🎖 Academic Competitions Awards
 
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
 - *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
