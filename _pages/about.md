@@ -23,6 +23,8 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Signal Processing, Machine Learning and Mathematical Modelling, etc. 
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=EtLfNlIAAAAJ))
+<br>
+<a href="show/zyshiCV_en.pdf" download>download CV</a>
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
