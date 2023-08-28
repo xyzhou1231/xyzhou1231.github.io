@@ -105,7 +105,7 @@ To view all award certificates click [here](https://github.com/zyshi007/Certific
 
 
 # 💻 Programming Skills
-&nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as MATLAB and Python, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
+&nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as **MATLAB** and **Python**, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
 - Participated in writing the textbook “MATLAB Programming and Application” ISBN:9787121449376
 - Served as a teaching assistant in “MATLAB programming and application” courses
 - Achieved the highest performance in the 2023 AI summer camp based on the Python programming
