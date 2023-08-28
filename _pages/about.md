@@ -71,12 +71,19 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 </div>
 </div>
 
-- [Design of motion pattern recognition system based on artificial intelligence methods](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"2023 International Conference on Cyber-physical Social Intelligence",**Zhuoyong Shi***, Liuming Yang, Yong Wu, etc.
+- [Design of motion pattern recognition system based on artificial intelligence methods](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT),"2023 International Conference on Cyber-physical Social Intelligence",**Zhuoyong Shi***, Liuming Yang, Yong Wu, etc.
 
-- [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT)"Application of Electronic Technique", Anli Zhang, Meng Xie, **Zhuoyong Shi**.
+- [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT),"Application of Electronic Technique", Anli Zhang, Meng Xie, **Zhuoyong Shi**.
 
-- [Design of Control System of Intelligent WiFi Car Based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHdiaUwvfvd7YbKh93N0jCuTPddwxaLlol0YPkl1ckX-N&uniplatform=NZKPT)"Automation & Instrumentation", Meng Xie, Zehui Zeng, Anli Zhang, **Zhuoyong Shi**.
-- 
+- [An Intelligent Decision System for Airport Taxi Based on LabVIEW], Chinese Journal of Engineering Mathematics. Anli Zhang, **Zhuoyong Shi***, Yafei Song. (Peer Review)
+- [Design of Recognition and Evaluation System for Table Tennis Players’Motor Skills Based on Artificial Intelligence], IEEE Transactions on Instrumentation and Measurement, **Zhuoyong Shi***, et al. (Peer Review)
+- [UAV flight states recognition and trajectory prediction based on trajectory feature construction], Aerospace Science and Technology, **Zhuoyong Shi***, et al. (Peer Review)
+- [Autonomous Security Evaluation Model for UAV Based on Airborne Information], 2023 International Conference on Cyber-physical Social Intelligence, **Zhuoyong Shi***, et al. (Peer Review)
+- [Recognition and Evaluation of Table Tennis Movement Skills Based on Feature Construction], Chinese Journal of Sensors and Actuators, Anli Zhang, **Zhuoyong Shi***(Peer Review)
+- [Design of UAV Safety Monitoring System Based on LABVIEW], Chinese Journal of Sensors and Actuators, Anli Zhang, **Zhuoyong Shi***(Peer Review)
+- [Design of Intelligent WiFi Car Control System Based on LabVIEW], Automation & Instrumentation, Meng Xie, Ze Hui, Anli Zhang, **Zhuoyong Shi**. DOI: 10.19557/j.cnki.1001-9944.2020.12.005
+- [An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System], Invention Patent in China. Anli Zhang, **Zhuoyong Shi**
+
 # 🎖 Academic Competitions Awards
 
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
