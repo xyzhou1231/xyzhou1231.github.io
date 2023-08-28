@@ -104,5 +104,12 @@ To view all award certificates click [here](https://github.com/zyshi007/Certific
 
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Programming Skills
+&nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as MATLAB and Python, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
+- Participated in writing the textbook “MATLAB Programming and Application” ISBN:9787121449376
+- Served as a teaching assistant in “MATLAB programming and application” courses
+- Achieved the highest performance in the 2023 AI summer camp based on the Python programming
+- Published paper titled “Design of Intelligent Elevator System Based on Space Occupancy”
+- Achieved excellent results in Electronic System Design Training (excellent)
+- Use STM32 when participating in electronic design competitions
+- Develop multiple visualization panels based on LabVIEW, including publishing two papers
