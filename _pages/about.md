@@ -20,8 +20,6 @@ redirect_from:
 # 👤 Biographies
 &nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
 <br>
-<a href="show/zyshiCV_en.pdf" download>Download my CV</a>
-<br>
 <a href="show/zyshiCV_en.pdf">View my CV</a>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling, embedded systems etc. 
@@ -88,17 +86,18 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 
 # 🎖 Academic_Competitions_Awards
 
-- *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
-- *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
-- *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
-- *2021.5*,Interdisciplinary Contest In Modeling(ICM), Honorable Mention, Team Award (team leader)
-- *2023.7*,National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
-- *2019.9*,National University Student Mathematical Modelling Competition, Shaanxi Province First Prize, Team Award (team leader)
-- *2023.7*,National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
-- *2019.10*,Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
+- *2021.8*, “Electrical Cup” China Undergraduate Mathematical Contest in Modeling, National Top Prize, Team Award (team leader)
+- *2021.11*, The National Undergraduate Mathematics Competitions, First Prize, Individual Award
+- *2020.11*, The National Undergraduate Mathematics Competitions, First Prize, Individual Award
+- *2021.5*, Interdisciplinary Contest In Modeling(ICM), Honorable Mention, Team Award (team leader)
+- *2023.7*, National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
+- *2019.9*, China Undergraduate Mathematical Contest in Modeling(CUMCM), Shaanxi Province First Prize, Team Award (team leader)
+- *2023.7*, National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
+- *2019.10*, Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
 <br>
 To view all award certificates click [here](https://github.com/zyshi007/Certificates)
-
+<br>
+<a href="show/certificate.pdf">View my Competition Certificate</a>
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology, XX/XX
