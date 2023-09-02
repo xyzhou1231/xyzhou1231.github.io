@@ -95,8 +95,6 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 - *2023.7*, National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
 - *2019.10*, Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
 <br>
-To view all award certificates click [here](https://github.com/zyshi007/Certificates)
-<br>
 <a href="show/certificate.pdf">View my Competition Certificate</a>
 
 # 📖 Educations
