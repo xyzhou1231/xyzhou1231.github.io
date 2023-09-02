@@ -22,7 +22,7 @@ redirect_from:
 <br>
 <a href="show/zyshiCV_en.pdf" download>Download my CV</a>
 <br>
-<a href="show/zyshiCV_en.pdf">Download my CV</a>
+<a href="show/zyshiCV_en.pdf">View my CV</a>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling, embedded systems etc. 
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
