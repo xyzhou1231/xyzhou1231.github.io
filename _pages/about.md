@@ -89,7 +89,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 - *2021.8*, "Electrical Cup" National Student Mathematical Modelling Competition, National Top Prize, Team Award (team leader)
 - *2021.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
 - *2020.11*, National Mathematics Competition for University Students, National First Prize, Individual Award
-- *2021.5*,U.S. Collegiate Mathematical Modelling Contest, International Second Prize, Team Award (team leader)
+- *2021.5*,Interdisciplinary Contest In Modeling(ICM), Honorable Mention, Team Award (team leader)
 - *2023.7*,National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
 - *2019.9*,National University Student Mathematical Modelling Competition, Shaanxi Province First Prize, Team Award (team leader)
 - *2023.7*,National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
