@@ -54,10 +54,6 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
   [**Project**](https://ieeexplore.ieee.org/document/10214303) :The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
-- A UAV trajectory prediction model based on flight state recognition is proposed in the paper.
-First, UAV flight information acquisition and data preprocessing are carried out;
-Second, a UAV flight state recognition model is established based on the PCA-SVM model;
-Finally, a UAV trajectory prediction model based on five flight state recognition is established.
 - The UAV trajectory prediction model based on flight state recognition proposed in this paper will play a crucial role in the field of intelligent autonomous UAV flight in the future, which provides assistance for autonomous flying UAVs in recognizing their own flight states and predicting their trajectories.
 
 
