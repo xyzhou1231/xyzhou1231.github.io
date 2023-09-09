@@ -71,7 +71,6 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 [**Project**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT) :Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
 - A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
-- The hardware structure of the monitoring system was designed based on STM32 to achieve the acquisition of human ECG, temperature and posture signals. The solution model of human body sign parameters was designed to achieve the monitoring and management of the sign parameters such as heart rate, body temperature and exercise steps.
 
 
 </div>
