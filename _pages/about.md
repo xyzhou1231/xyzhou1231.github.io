@@ -22,7 +22,7 @@ redirect_from:
 <br>
 <a href="show/zyshiCV_en.pdf">View my CV</a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling, embedded systems etc. 
+&nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling etc. 
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
 ([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
 
