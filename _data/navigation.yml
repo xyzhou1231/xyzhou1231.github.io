@@ -3,6 +3,7 @@ main:
   - title: "Biographies"
     url: "/#about-me"
     
+    
   - title: "Educations"
     url: "/#-educations"
     
@@ -16,7 +17,7 @@ main:
     url: "/#-awards"
 
   - title: "Experience"
-    url: "/#-awards"
+    url: "/#-experience"
 
 
 
