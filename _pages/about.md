@@ -94,7 +94,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 - [Design of Intelligent WiFi Car Control System Based on LabVIEW], Automation & Instrumentation, Meng Xie, Ze Hui, Anli Zhang, **Zhuoyong Shi**. DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 - [An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System], Invention Patent in China. Anli Zhang, **Zhuoyong Shi**
 
-# 🎖 Academic_Competitions_Awards
+# 🎖 Awards
 
 - *2021.8*, “Electrical Cup” China Undergraduate Mathematical Contest in Modeling, National Top Prize, Team Award (team leader)
 - *2021.11*, The National Undergraduate Mathematics Competitions, First Prize, Individual Award
@@ -110,7 +110,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 
 
 
-# 💻 Programming_Skills
+# 💻 Experience
 &nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as **MATLAB** and **Python**, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
 - Participated in writing the textbook “MATLAB Programming and Application” ISBN:9787121449376
 - Served as a teaching assistant in “MATLAB programming and application” courses
