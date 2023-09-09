@@ -98,10 +98,10 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 <a href="show/certificate.pdf">View my Competition Certificate</a>
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, Master, Electronic Science and Technology, XX/XX
+- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, XX/XX
 - &nbsp;&nbsp;&nbsp;&nbsp;
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
-- &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
 
 
 # 💻 Programming_Skills
