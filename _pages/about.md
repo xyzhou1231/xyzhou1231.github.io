@@ -27,6 +27,16 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=EtLfNlIAAAAJ))
 
 
+# 📖 Educations
+- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, XX/XX
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">XXX</a>
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: XXX
+- *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: Scholarship from the School of Electronic Information (twice)
+
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
 - *2023.07*: &nbsp;🎉🎉 My conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been accepted by ICCSI.
@@ -97,12 +107,7 @@ Finally, a UAV trajectory prediction model based on five flight state recognitio
 <br>
 <a href="show/certificate.pdf">View my Competition Certificate</a>
 
-# 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, XX/XX
-- &nbsp;&nbsp;&nbsp;&nbsp;
-- *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
+
 
 
 # 💻 Programming_Skills
