@@ -30,11 +30,13 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">XXX</a>
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: National Scholarship for Graduate Students
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Master.pdf">National Scholarship for Graduate Students</a>(twice)
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Bachelor_Dissertation.pdf">Scholarship from the School of Electronic Information</a>(twice)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Bachelor.pdf">Scholarship from the School of Electronic Information</a>(twice)
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
