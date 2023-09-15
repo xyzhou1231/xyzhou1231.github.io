@@ -20,22 +20,21 @@ redirect_from:
 # 👤 Biographies
 &nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
 <br>
-<a href="show/zyshiCV_en.pdf">View my CV</a>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;My research interest includes Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling etc. 
+&nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling etc. 
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
 ([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
-
+<br>
+<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, XX/XX
+- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">XXX</a>
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: XXX
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: National Scholarship for Graduate Students
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: Scholarship from the School of Electronic Information (twice)
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Bachelor_Dissertation.pdf">Scholarship from the School of Electronic Information</a>(twice)
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
