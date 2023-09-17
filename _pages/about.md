@@ -101,7 +101,7 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 - *2023.7*, National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
 - *2019.10*, Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
 <br>
-<a href="show/certificate.pdf">View my Competition Certificate</a>
+<a href="show/certificate.pdf">Click here to view my competition certificate</a>
 
 
 
