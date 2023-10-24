@@ -39,7 +39,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 &nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Bachelor.pdf">Scholarship from the School of Electronic Information</a>(twice)
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 I was awarded the National Scholarship for Graduate Students with the first place in my major.
+- *2023.10*: &nbsp;🎉🎉 I was awarded the National Scholarship for Graduate Students with the first place in my major.
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
 - *2023.07*: &nbsp;🎉🎉 My conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been accepted by ICCSI.
 - *2023.07*: &nbsp;🎉🎉 National Second Prize in the Mathematical and Statistical Analysis Competition. 
