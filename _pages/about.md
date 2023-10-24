@@ -31,7 +31,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Bachelor_Dissertation.pdf">XXX</a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Master.pdf">National Scholarship for Graduate Students</a>(twice)
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Master.pdf">National Scholarship for Graduate Students</a>
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
