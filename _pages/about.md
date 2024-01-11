@@ -92,7 +92,8 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Anli Zhang, Zhuoyong Shi, et al. Design of Wireless Motion Sensor Node Monitoring System Based on LabVIEW [J], Foreign Electronic Measurement Technology. (PKU IF=1.74)
+  
+Anli Zhang, **Zhuoyong Shi**, et al. Design of Wireless Motion Sensor Node Monitoring System Based on LabVIEW [J], Foreign Electronic Measurement Technology. (PKU IF=1.74)
 <br>
 [DOI:10.19652/j.cnki.femt.2103232](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
 <br>
