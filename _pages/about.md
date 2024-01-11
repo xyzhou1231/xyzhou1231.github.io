@@ -20,7 +20,7 @@ redirect_from:
 # 👤 Biographies
 &nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Deep Learning, Intelligent Agent Collaborative Control, Reinforcement Learning, signal processing, mathematical modeling etc. 
+&nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Deep Learning, Machine Learning, UAV, Deep Reinforcement Learning, Intelligent Agent Collaborative Control, Signal Processing, Mathematical Modeling etc. 
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
 ([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
 <br>
