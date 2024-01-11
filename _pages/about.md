@@ -140,7 +140,7 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
 
 
-# 💻 Programming Skill
+# 💻 Experience
 &nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as **MATLAB** and **Python**, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
 - Participated in writing the textbook “MATLAB Programming and Application” ISBN:9787121449376
 - Served as a teaching assistant in “MATLAB programming and application” courses
