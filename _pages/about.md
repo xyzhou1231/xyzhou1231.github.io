@@ -53,7 +53,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 
 Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction Based on Flight State Recognition [J], IEEE Transactions on Aerospace and Electronic Systems. (JCR Q1 IF=4.4) 
 <br>
-DOI:[10.1109/TAES.2023.3303854](https://ieeexplore.ieee.org/document/10214303)
+[DOI:10.1109/TAES.2023.3303854](https://ieeexplore.ieee.org/document/10214303)
 Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
@@ -68,7 +68,7 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 <div class='paper-box-text' markdown="1">
 Zhuoyong Shi, Yetao Jia, Guoqing Shi*, et al. Design of motor skill recognition and hierarchical evaluation system for table tennis players [J], IEEE Sensors Journal. (JCR Q1 IF=4.3) 
 <br>
-DOI:[10.1109/JSEN.2023.3346880](https://ieeexplore.ieee.org/abstract/document/10380540)
+[DOI:10.1109/JSEN.2023.3346880](https://ieeexplore.ieee.org/abstract/document/10380540)
 Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
@@ -91,8 +91,9 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Anli Zhang, Zhuoyong Shi, et al. Design of Wireless Motion Sensor Node Monitoring System Based on LabVIEW [J], Foreign Electronic Measurement Technology. (PKU IF=1.74)
+[DOI:10.19652/j.cnki.femt.2103232](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
 
-[Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)"Foreign Electronic Measurement Technology",Anli Zhang, **Zhuoyong Shi**, etc
 
 Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
