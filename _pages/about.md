@@ -106,18 +106,23 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 </div>
 </div>
 
-- [Design of motion pattern recognition system based on artificial intelligence methods](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT),"2023 International Conference on Cyber-physical Social Intelligence",**Zhuoyong Shi***, Liuming Yang, Yong Wu, etc.
+**Zhuoyong Shi***, Liuming Yang, Yong Wu, et al. Design of motion pattern recognition system based on artificial intelligence methods [C], 2023 IEEE International Conference on Cyber-physical Social Intelligence.
+DOI: 10.1109/ICCSI58851.2023.10303805
+<br>
+**Zhuoyong Shi***, et al. Autonomous Security Evaluation Model for UAV Based on Airborne Information [C], 2023 IEEE International Conference on Information Communication and Signal Processing. (accepted)
+DOI: 
+<br>
+Anli Zhang, Meng Xie, **Zhuoyong Shi**, et al. Design of Intelligent Elevator Control System Based on Space Occupancy Determination [J], Application of Electronic Technique. (PKU IF=1.11)
+DOI: 10.16157/j.issn.0258-7998.201037
+<br>
+Anli Zhang, **Zhuoyong Shi**, et al. An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System [P], Invention Patent in China. (Authorized) 
+Patent No: CN202310946630.7
+<br>
+Meng Xie, Ze Hui, Anli Zhang, Zhuoyong Shi. Design of Intelligent WIFI Car Control System Based on LabVIEW [J]. Automation & Instrumentation. (PKU IF=1.03)
+DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
-- [Design of intelligent elevator control system based on space occupancy determination](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHcxXRr_aBvpHCPi_2fJIqntLWPQlT5U43uPxa_45isNj&uniplatform=NZKPT),"Application of Electronic Technique", Anli Zhang, Meng Xie, **Zhuoyong Shi**.
 
-- [An Intelligent Decision System for Airport Taxi Based on LabVIEW], Chinese Journal of Engineering Mathematics. Anli Zhang, **Zhuoyong Shi***, Yafei Song. (Peer Review)
-- [Design of Recognition and Evaluation System for Table Tennis Players’Motor Skills Based on Artificial Intelligence], IEEE Transactions on Instrumentation and Measurement, **Zhuoyong Shi***, et al. (Peer Review)
-- [UAV flight states recognition and trajectory prediction based on trajectory feature construction], Aerospace Science and Technology, **Zhuoyong Shi***, et al. (Peer Review)
-- [Autonomous Security Evaluation Model for UAV Based on Airborne Information], 2023 International Conference on Cyber-physical Social Intelligence, **Zhuoyong Shi***, et al. (Peer Review)
-- [Recognition and Evaluation of Table Tennis Movement Skills Based on Feature Construction], Chinese Journal of Sensors and Actuators, Anli Zhang, **Zhuoyong Shi***(Peer Review)
-- [Design of UAV Safety Monitoring System Based on LABVIEW], Chinese Journal of Sensors and Actuators, Anli Zhang, **Zhuoyong Shi***(Peer Review)
-- [Design of Intelligent WiFi Car Control System Based on LabVIEW], Automation & Instrumentation, Meng Xie, Ze Hui, Anli Zhang, **Zhuoyong Shi**. DOI: 10.19557/j.cnki.1001-9944.2020.12.005
-- [An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System], Invention Patent in China. Anli Zhang, **Zhuoyong Shi**
+
 
 # 🎖 Awards
 
