@@ -53,7 +53,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 
 [UAV Trajectory Prediction Based on Flight State Recognition](https://ieeexplore.ieee.org/document/10214303)"IEEE Transactions on Aerospace and Electronic Systems",Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, etc (JCR Q1 IF=4.4)
 
-  [**Project**]:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
+Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 - The UAV trajectory prediction model based on flight state recognition proposed in this paper will play a crucial role in the field of intelligent autonomous UAV flight in the future, which provides assistance for autonomous flying UAVs in recognizing their own flight states and predicting their trajectories.
@@ -68,7 +68,7 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 
 [Design of motor skill recognition and hierarchical evaluation system for table tennis players]([https://ieeexplore.ieee.org/document/10214303](https://ieeexplore.ieee.org/abstract/document/10380540))"IEEE Sensors Journal",**Zhuoyong Shi***, Yetao Jia, Guoqing Shi*, etc (JCR Q1 IF=4.3)
 
-  [**Project**]:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
+Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 
@@ -93,7 +93,7 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 
 [Design of wireless motion sensor node monitoring system based on LabVIEW](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)"Foreign Electronic Measurement Technology",Anli Zhang, **Zhuoyong Shi**, etc
 
-[**Project**]:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
+Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
 - A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
 
