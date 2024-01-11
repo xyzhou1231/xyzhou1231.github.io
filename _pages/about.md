@@ -108,18 +108,24 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 </div>
 
 **Zhuoyong Shi***, Liuming Yang, Yong Wu, et al. Design of motion pattern recognition system based on artificial intelligence methods [C], 2023 IEEE International Conference on Cyber-physical Social Intelligence.
+<br>
 DOI: 10.1109/ICCSI58851.2023.10303805
 <br>
 **Zhuoyong Shi***, et al. Autonomous Security Evaluation Model for UAV Based on Airborne Information [C], 2023 IEEE International Conference on Information Communication and Signal Processing. (accepted)
+<br>
 DOI: 
 <br>
 Anli Zhang, Meng Xie, **Zhuoyong Shi**, et al. Design of Intelligent Elevator Control System Based on Space Occupancy Determination [J], Application of Electronic Technique. (PKU IF=1.11)
+
+<br>
 DOI: 10.16157/j.issn.0258-7998.201037
 <br>
 Anli Zhang, **Zhuoyong Shi**, et al. An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System [P], Invention Patent in China. (Authorized) 
+<br>
 Patent No: CN202310946630.7
 <br>
 Meng Xie, Ze Hui, Anli Zhang, Zhuoyong Shi. Design of Intelligent WIFI Car Control System Based on LabVIEW [J]. Automation & Instrumentation. (PKU IF=1.03)
+<br>
 DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
 
