@@ -54,8 +54,8 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction Based on Flight State Recognition [J], IEEE Transactions on Aerospace and Electronic Systems. (JCR Q1 IF=4.4) 
 <br>
 [DOI:10.1109/TAES.2023.3303854](https://ieeexplore.ieee.org/document/10214303)
-Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
+Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 - The UAV trajectory prediction model based on flight state recognition proposed in this paper will play a crucial role in the field of intelligent autonomous UAV flight in the future, which provides assistance for autonomous flying UAVs in recognizing their own flight states and predicting their trajectories.
 
@@ -70,8 +70,8 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 **Zhuoyong Shi**, Yetao Jia, Guoqing Shi*, et al. Design of motor skill recognition and hierarchical evaluation system for table tennis players [J], IEEE Sensors Journal. (JCR Q1 IF=4.3) 
 <br>
 [DOI:10.1109/JSEN.2023.3346880](https://ieeexplore.ieee.org/abstract/document/10380540)
-Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
+Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 
 
@@ -95,7 +95,7 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 Anli Zhang, Zhuoyong Shi, et al. Design of Wireless Motion Sensor Node Monitoring System Based on LabVIEW [J], Foreign Electronic Measurement Technology. (PKU IF=1.74)
 <br>
 [DOI:10.19652/j.cnki.femt.2103232](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
-
+<br>
 
 Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
 
