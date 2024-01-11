@@ -130,7 +130,7 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 
 
 
-# 💻 Experience
+# 💻 programming skill
 &nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as **MATLAB** and **Python**, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
 - Participated in writing the textbook “MATLAB Programming and Application” ISBN:9787121449376
 - Served as a teaching assistant in “MATLAB programming and application” courses
