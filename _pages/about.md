@@ -66,9 +66,9 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2023</div><img src='images/JSEN1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Design of motor skill recognition and hierarchical evaluation system for table tennis players]([https://ieeexplore.ieee.org/document/10214303](https://ieeexplore.ieee.org/abstract/document/10380540))"IEEE Sensors Journal",**Zhuoyong Shi***, Yetao Jia, Guoqing Shi*, etc (JCR Q1 IF=4.3)
-
+Zhuoyong Shi, Yetao Jia, Guoqing Shi*, et al. Design of motor skill recognition and hierarchical evaluation system for table tennis players [J], IEEE Sensors Journal. (JCR Q1 IF=4.3) 
+<br>
+DOI:[10.1109/JSEN.2023.3346880](https://ieeexplore.ieee.org/abstract/document/10380540)
 Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
