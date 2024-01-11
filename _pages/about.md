@@ -78,16 +78,8 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 
 - In this paper, a wearable device is designed for table tennis players. It enables the recognition and evaluation of athletes' professional movement skills. It is mainly based on pattern recognition technology to realise the recognition of athletes' movement skills, and at the same time assesses athletes' movement skills based on a hierarchical evaluation system. It uses artificial intelligence technology to achieve the functions of monitoring recognition and skill assessment of athletes' motor skills.
 
-
 </div>
 </div>
-
-
-
-
-
-
-
 
 
 
@@ -106,6 +98,8 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 
 </div>
 </div>
+
+<!-- 带图文章结束，下面是不带图的 -->
 
 **Zhuoyong Shi***, Liuming Yang, Yong Wu, et al. Design of motion pattern recognition system based on artificial intelligence methods [C], 2023 IEEE International Conference on Cyber-physical Social Intelligence.
 <br>
