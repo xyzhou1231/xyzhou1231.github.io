@@ -71,7 +71,9 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
   [**Project**]:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
 <br>
 Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
-- The UAV trajectory prediction model based on flight state recognition proposed in this paper will play a crucial role in the field of intelligent autonomous UAV flight in the future, which provides assistance for autonomous flying UAVs in recognizing their own flight states and predicting their trajectories.
+
+
+- In this paper, a wearable device is designed for table tennis players. It enables the recognition and evaluation of athletes' professional movement skills. It is mainly based on pattern recognition technology to realise the recognition of athletes' movement skills, and at the same time assesses athletes' movement skills based on a hierarchical evaluation system. It uses artificial intelligence technology to achieve the functions of monitoring recognition and skill assessment of athletes' motor skills.
 
 
 </div>
