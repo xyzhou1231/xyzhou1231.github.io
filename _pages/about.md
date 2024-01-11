@@ -110,7 +110,6 @@ DOI: 10.1109/ICCSI58851.2023.10303805
 DOI: 
 <br>
 Anli Zhang, Meng Xie, **Zhuoyong Shi**, et al. Design of Intelligent Elevator Control System Based on Space Occupancy Determination [J], Application of Electronic Technique. (PKU IF=1.11)
-
 <br>
 DOI: 10.16157/j.issn.0258-7998.201037
 <br>
