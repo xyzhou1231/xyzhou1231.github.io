@@ -174,18 +174,12 @@ interoperability design specifications.
 • Completed a comprehensive 150-page project report that included detailed modeling of mission requirements and 
 comparative analysis of various algorithms, providing a thorough strategic evaluation.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Integrated Communication Identification Simulation System 2022/06-2023/04**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022/06-2023/04</div><img src='images/综合仿真器项目.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
+  **Integrated Communication Identification Simulation System**(Project led by Shenyang Aircraft Design Institute )
 <br>
-
-<br>
-- Project led by Shenyang Aircraft Design Institute 
-<br>
-• Pioneered the design of a human-computer interaction interface on the QT platform, leveraging advanced C++ skills; 
+- Pioneered the design of a human-computer interaction interface on the QT platform, leveraging advanced C++ skills; 
 efficiently managed simulation parameters.
 <br>
 • Deep-dived into the intricacies of integrated communication identification simulators, mastering transmission modes, 
