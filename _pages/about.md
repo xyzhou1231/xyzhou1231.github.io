@@ -139,15 +139,11 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
 
 # 🎖 Awards
-
-- *2021.8*, “Electrical Cup” China Undergraduate Mathematical Contest in Modeling, National Top Prize, Team Award (team leader)
-- *2021.11*, The National Undergraduate Mathematics Competitions, First Prize, Individual Award
-- *2020.11*, The National Undergraduate Mathematics Competitions, First Prize, Individual Award
-- *2021.5*, Interdisciplinary Contest In Modeling(ICM), Honorable Mention, Team Award (team leader)
-- *2023.7*, National Student Statistical Analysis of Data Competition, National Second Prize, Team Award (team leader)
-- *2019.9*, China Undergraduate Mathematical Contest in Modeling(CUMCM), Shaanxi Province First Prize, Team Award (team leader)
-- *2023.7*, National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
-- *2019.10*, Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
+- *2022.09*, Third prize in the category of Technology Breakthroughs of the 2022 CASIC “Zhixin Cup” Innovation and Creativity 
+Competition for College Students
+- *2022.06*, Second prize in the 2022 “Aoxiang Cup” Graduate Electronics Design Competition of Northwestern Polytechnical 
+University
+- *2018.10*, Third prize in the 2018 “Li’ao Cup” Science and Technology Competition of Xi’an University of Technology
 <br>
 <a href="show/certificate.pdf">Click here to view my competition certificate</a>
 
