@@ -151,44 +151,21 @@ University
 
 
 # 💻 Experience
+<!-- 编队协同智能空战战术决策项目介绍 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/编队协同战术决策.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  **Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design**
   <br>
   (Project led by Chengdu Aircraft Design Institute )
 <br>
-- A human-computer interaction interface for the 1553B (Aviation Onboard Bus Comprehensive System) was designed based on the QT platform, featuring encoding and decoding functionalities as per the 1553B bus protocol. The project utilized C++ language on the QT platform for the design of the human-computer interaction interface, ensuring the accuracy and integrity of data during transmission, reception, storage, and playback.
-<br>
-- As the student leader of the project, I oversaw and participated in the entire process. Throughout the project, I mastered the C++ programming language and became proficient in using the QT platform.
-
+The project developed a drone formation collaborative air combat decision-making system, simulating air combat scenarios of drone formations. The system mainly includes: situation assessment system, tactical control system, and tactical decision-making system. The main algorithms used are neural network algorithms, reinforcement learning algorithms, Bayesian networks, etc.
+********
+During my second year of master's studies, I led team members to complete this project. In the course of the project, I learned to proficiently use the Python programming language and gained an understanding of cutting-edge artificial intelligence algorithms such as neural networks and reinforcement learning.
 
 </div>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design **
-Project led by Chengdu Aircraft Design Institute 
-<br>
-• Designed and implemented an innovative evaluation system for the combat capability of unmanned combat aerial 
-vehicles, effectively categorizing capability indicators and integrating the Analytic Hierarchy Process (AHP) and ADC 
-performance assessment method, successfully enhancing the accuracy and reliability of air-to-air combat efficiency 
-evaluations.
-<br>
-• Developed an advanced air-to-air situation threat assessment model based on artificial neural networks, which accurately 
-predicted threat levels, significantly improving the precision and response speed of aerial combat decision-making.
-<br>
-• Employed Bayesian networks to successfully fit and optimize the decision-making rules for drones, effectively 
-increasing the accuracy of optimal tactical decisions in complex battlefield environments.
-<br>
-• Simulated and designed a series of formation collaborative combat scenarios for various mission requirements, achieving 
-highly realistic decision-making process simulations through reinforcement learning algorithms.
-<br>
-• Successfully translated and analyzed approximately 300 pages of U.S. military formation collaboration and 
-interoperability design specifications.
-<br>
-• Completed a comprehensive 150-page project report that included detailed modeling of mission requirements and 
-comparative analysis of various algorithms, providing a thorough strategic evaluation.
-<br>
-
+<!-- 通信仿真器项目 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022/06-2023/04</div><img src='images/综合仿真器项目.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   **Integrated Communication Identification Simulation System**
@@ -203,19 +180,24 @@ comparative analysis of various algorithms, providing a thorough strategic evalu
 </div>
 </div>
 
+<!--基于QT平台设计了一种面向1553B(航空机载总线综合系统)的人机交互界面，实现了根据1553B总线协议进行编码和解码的功能。项目采用基于QT平台的C++语言完成人机交互界面的设计，确保了数据在传输、接收、存储和回放过程中的准确性和完整性。
 
+我作为项目的学生负责人，实施并参与了项目的整个流程。在项目中我熟练掌握了C++编程语言以及熟悉使用了QT平台。 -->
+
+
+<!-- 无人机自主对地攻击评价体系项目 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/编队协同战术决策.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ **Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design**
+  <br>
+  (Project led by Chengdu Aircraft Design Institute )
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Research on the Evaluation System of Autonomous Ground Attack by UAV Combat 2020/11-2021/12**
-Project led by China Flight Test Institute
+- The project evaluates the autonomous ground attack capabilities of unmanned aerial vehicles (UAVs), establishing an assessment model that includes multi-level evaluation indicators for UAVs. Utilizing the Analytic Hierarchy Process (AHP), the project established the weightings for the UAV ground attack capability indicators. Based on MATLAB, a GUI panel for scoring the autonomous ground attack capabilities of UAVs was designed, forming a more scientific and comprehensive assessment system for these capabilities.
 <br>
-• Conducted an exhaustive review of both domestic and international methodologies, assessing the intelligence levels of 
-UAVs, establishing a solid foundation for further research.
-<br>
-• Formulated a UAV autonomous ground attack capability evaluation model tailored for China, encompassing an intricate 
-framework of indicator systems.
-<br>
-• Exploited MATLAB's GUI functionalities to simulate the UAV evaluation system, harnessing the power of AHP for a 
-multi-criteria assessment.
-<br>
-• Authored a detailed 167-page research report, providing insights into model development, simulation outcomes, and 
-recommendations for future UAV combat evaluations.
+-This project was the first I encountered in the early stages of my postgraduate studies. In the course of this project, I learned to proficiently use the MATLAB programming environment and established a theoretical framework in the field of UAV combat.
+</div>
+</div>
+
+The project developed a drone formation collaborative air combat decision-making system, simulating air combat scenarios of drone formations. The system mainly includes: situation assessment system, tactical control system, and tactical decision-making system. The main algorithms used are neural network algorithms, reinforcement learning algorithms, Bayesian networks, etc.
+
+During my second year of master's studies, I led team members to complete this project. In the course of the project, I learned to proficiently use the Python programming language and gained an understanding of cutting-edge artificial intelligence algorithms such as neural networks and reinforcement learning.
