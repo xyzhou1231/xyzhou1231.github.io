@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shi Zhuoyong"
-description              : "Shi Zhuoyong is a current master's student from Northwestern Polytechnical University"
+title                    : "Zhou Xingyu"
+description              : "Zhou Xingyu is a current master's student from Northwestern Polytechnical University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shi Zhuoyong"
+  name             : "Zhou Xingyu"
   avatar           : "images/证件照.png"
-  bio              : "2001.02.16"
+  bio              : "1997.12.31"
   location         : "Shaanxi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en"
-  email            : "shizy@mail.nwpu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=_5hM6mIAAAAJ&hl=en"
+  email            : "xingyuzhou@mail.nwpu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zyshi007"
+  github           : "xyzhou1231"
   google_plus      :
   keybase          :
   instagram        :
