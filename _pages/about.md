@@ -177,7 +177,9 @@ comparative analysis of various algorithms, providing a thorough strategic evalu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022/06-2023/04</div><img src='images/综合仿真器项目.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  **Integrated Communication Identification Simulation System**(Project led by Shenyang Aircraft Design Institute )
+  **Integrated Communication Identification Simulation System**
+  <br>
+  (Project led by Shenyang Aircraft Design Institute )
 <br>
 - A human-computer interaction interface for the 1553B (Aviation Onboard Bus Comprehensive System) was designed based on the QT platform, featuring encoding and decoding functionalities as per the 1553B bus protocol. The project utilized C++ language on the QT platform for the design of the human-computer interaction interface, ensuring the accuracy and integrity of data during transmission, reception, storage, and playback.
 <br>
