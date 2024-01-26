@@ -175,7 +175,15 @@ interoperability design specifications.
 comparative analysis of various algorithms, providing a thorough strategic evaluation.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Integrated Communication Identification Simulation System 2022/06-2023/04**
-Project led by Shenyang Aircraft Design Institute 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022/06-2023/04</div><img src='images/综合仿真器项目.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<br>
+
+<br>
+- Project led by Shenyang Aircraft Design Institute 
 <br>
 • Pioneered the design of a human-computer interaction interface on the QT platform, leveraging advanced C++ skills; 
 efficiently managed simulation parameters.
@@ -188,6 +196,12 @@ transmission, reception, storage, and playback.
 <br>
 • Authored a comprehensive 61-page research report detailing the system's functionality, challenges encountered, and 
 solutions implemented.
+
+
+</div>
+</div>
+
+
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research on the Evaluation System of Autonomous Ground Attack by UAV Combat 2020/11-2021/12**
 Project led by China Flight Test Institute
