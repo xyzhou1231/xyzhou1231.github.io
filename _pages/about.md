@@ -155,39 +155,55 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
 
 # 💻 Experience
-&nbsp;&nbsp;&nbsp;&nbsp;Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design 2023/04 - 2023/09
+&nbsp;&nbsp;&nbsp;&nbsp;**Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design 2023/04 - 2023/09**
 Project led by Chengdu Aircraft Design Institute 
+<br>
 • Designed and implemented an innovative evaluation system for the combat capability of unmanned combat aerial 
 vehicles, effectively categorizing capability indicators and integrating the Analytic Hierarchy Process (AHP) and ADC 
 performance assessment method, successfully enhancing the accuracy and reliability of air-to-air combat efficiency 
 evaluations.
+<br>
 • Developed an advanced air-to-air situation threat assessment model based on artificial neural networks, which accurately 
 predicted threat levels, significantly improving the precision and response speed of aerial combat decision-making.
+<br>
 • Employed Bayesian networks to successfully fit and optimize the decision-making rules for drones, effectively 
 increasing the accuracy of optimal tactical decisions in complex battlefield environments.
+<br>
 • Simulated and designed a series of formation collaborative combat scenarios for various mission requirements, achieving 
 highly realistic decision-making process simulations through reinforcement learning algorithms.
+<br>
 • Successfully translated and analyzed approximately 300 pages of U.S. military formation collaboration and 
 interoperability design specifications.
+<br>
 • Completed a comprehensive 150-page project report that included detailed modeling of mission requirements and 
 comparative analysis of various algorithms, providing a thorough strategic evaluation.
-Integrated Communication Identification Simulation System 2022/06-2023/04
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Integrated Communication Identification Simulation System 2022/06-2023/04**
 Project led by Shenyang Aircraft Design Institute 
+<br>
 • Pioneered the design of a human-computer interaction interface on the QT platform, leveraging advanced C++ skills; 
 efficiently managed simulation parameters.
+<br>
 • Deep-dived into the intricacies of integrated communication identification simulators, mastering transmission modes, 
 data processing logic, and 1553B bus communication.
+<br>
 • Implemented encoding and decoding functionalities as per the 1553B bus protocol, simulating data lifecycle processes—
 transmission, reception, storage, and playback.
+<br>
 • Authored a comprehensive 61-page research report detailing the system's functionality, challenges encountered, and 
 solutions implemented.
-Research on the Evaluation System of Autonomous Ground Attack by UAV Combat 2020/11-2021/12
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Research on the Evaluation System of Autonomous Ground Attack by UAV Combat 2020/11-2021/12**
 Project led by China Flight Test Institute
+<br>
 • Conducted an exhaustive review of both domestic and international methodologies, assessing the intelligence levels of 
 UAVs, establishing a solid foundation for further research.
+<br>
 • Formulated a UAV autonomous ground attack capability evaluation model tailored for China, encompassing an intricate 
 framework of indicator systems.
+<br>
 • Exploited MATLAB's GUI functionalities to simulate the UAV evaluation system, harnessing the power of AHP for a 
 multi-criteria assessment.
+<br>
 • Authored a detailed 167-page research report, providing insights into model development, simulation outcomes, and 
 recommendations for future UAV combat evaluations.
