@@ -164,6 +164,10 @@ During my second year of master's studies, I led team members to complete this p
 
 </div>
 </div>
+<!--项目设计了一种无人机编队协同空战决策系统，模拟了无人机编队的空战场景。系统主要包括：态势评估系统、战术控制系统和战术决策系统等，主要采用的算法包括：神经网络算法、强化学习算法、贝叶斯网络等。
+
+我在硕士二年级阶段带领团队成员完成了该项目。在项目中，我学习熟练使用Python编程语言，并了解了如神经网络强化学习等前沿的人工智能算法。
+ -->
 
 <!-- 通信仿真器项目 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022/06-2023/04</div><img src='images/综合仿真器项目.png' alt="sym" width="100%"></div></div>
@@ -186,7 +190,7 @@ During my second year of master's studies, I led team members to complete this p
 
 
 <!-- 无人机自主对地攻击评价体系项目 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/编队协同战术决策.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/对地打击.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  **Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design**
   <br>
@@ -197,7 +201,7 @@ During my second year of master's studies, I led team members to complete this p
 -This project was the first I encountered in the early stages of my postgraduate studies. In the course of this project, I learned to proficiently use the MATLAB programming environment and established a theoretical framework in the field of UAV combat.
 </div>
 </div>
+<!--项目对无人机自主对地攻击能力进行评估，建立了一个包含无人机多级评价指标的评估模型。项目利用层次分析法完成了对无人机对地攻击能力指标权重的确立，并基于MATLAB设计了一个无人机自主对地攻击能力得分的GUI面板，建立了一套对无人机自主对地攻击能力更为科学、全面的评估体系。
 
-The project developed a drone formation collaborative air combat decision-making system, simulating air combat scenarios of drone formations. The system mainly includes: situation assessment system, tactical control system, and tactical decision-making system. The main algorithms used are neural network algorithms, reinforcement learning algorithms, Bayesian networks, etc.
-
-During my second year of master's studies, I led team members to complete this project. In the course of the project, I learned to proficiently use the Python programming language and gained an understanding of cutting-edge artificial intelligence algorithms such as neural networks and reinforcement learning.
+该项目是我在读研初期接触的第一个项目，在该项目中，我学会熟练使用MATLAB编程环境，并建立了无人机作战领域的相关理论体系。
+ -->
