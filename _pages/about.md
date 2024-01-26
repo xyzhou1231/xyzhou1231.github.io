@@ -151,7 +151,21 @@ University
 
 
 # 💻 Experience
-&nbsp;&nbsp;&nbsp;&nbsp;**Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design 2023/04 - 2023/09**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/对地打击.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ **Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design **
+  <br>
+  (Project led by Chengdu Aircraft Design Institute )
+<br>
+- A human-computer interaction interface for the 1553B (Aviation Onboard Bus Comprehensive System) was designed based on the QT platform, featuring encoding and decoding functionalities as per the 1553B bus protocol. The project utilized C++ language on the QT platform for the design of the human-computer interaction interface, ensuring the accuracy and integrity of data during transmission, reception, storage, and playback.
+<br>
+- As the student leader of the project, I oversaw and participated in the entire process. Throughout the project, I mastered the C++ programming language and became proficient in using the QT platform.
+
+
+</div>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design **
 Project led by Chengdu Aircraft Design Institute 
 <br>
 • Designed and implemented an innovative evaluation system for the combat capability of unmanned combat aerial 
