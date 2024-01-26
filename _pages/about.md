@@ -48,7 +48,7 @@ I am currently finding a PhD position suitable for me
 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,7 +98,7 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 
 </div>
 </div>
-
+-->
 <!-- 带图文章结束，下面是不带图的 -->
 
 **Zhuoyong Shi***, Liuming Yang, Yong Wu, et al. Design of motion pattern recognition system based on artificial intelligence methods [C], 2023 IEEE International Conference on Cyber-physical Social Intelligence.
