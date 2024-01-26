@@ -101,6 +101,20 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 -->
 <!-- 带图文章结束，下面是不带图的 -->
 
+
+**Zhou X**, Zhang J, Liu J, et al. Evaluation of Autonomous Capability of Ground Attack UAV Based on 
+Hierarchical Analysis Method (EI, ICAUS)
+[DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
+
+
+• (Under Review) Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images, IEEE 
+Sensors Journal (SCI Q2)
+
+
+
+
+
+
 **Zhuoyong Shi***, Liuming Yang, Yong Wu, et al. Design of motion pattern recognition system based on artificial intelligence methods [C], 2023 IEEE International Conference on Cyber-physical Social Intelligence.
 <br>
 DOI: 10.1109/ICCSI58851.2023.10303805
