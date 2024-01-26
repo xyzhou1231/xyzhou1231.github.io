@@ -25,7 +25,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 ([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
 <br>
 I am currently finding a PhD position suitable for me
-<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>
+<a href="show/xyzhouCV_en.pdf">Click here to view my CV</a>
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
