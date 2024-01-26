@@ -194,7 +194,7 @@ University
 <br>
 - The project evaluates the autonomous ground attack capabilities of unmanned aerial vehicles (UAVs), establishing an assessment model that includes multi-level evaluation indicators for UAVs. Utilizing the Analytic Hierarchy Process (AHP), the project established the weightings for the UAV ground attack capability indicators. Based on MATLAB, a GUI panel for scoring the autonomous ground attack capabilities of UAVs was designed, forming a more scientific and comprehensive assessment system for these capabilities.
 <br>
--This project was the first I encountered in the early stages of my postgraduate studies. In the course of this project, I learned to proficiently use the MATLAB programming environment and established a theoretical framework in the field of UAV combat.
+- This project was the first I encountered in the early stages of my postgraduate studies. In the course of this project, I learned to proficiently use the MATLAB programming environment and established a theoretical framework in the field of UAV combat.
 <!--项目对无人机自主对地攻击能力进行评估，建立了一个包含无人机多级评价指标的评估模型。项目利用层次分析法完成了对无人机对地攻击能力指标权重的确立，并基于MATLAB设计了一个无人机自主对地攻击能力得分的GUI面板，建立了一套对无人机自主对地攻击能力更为科学、全面的评估体系。
 
 该项目是我在读研初期接触的第一个项目，在该项目中，我学会熟练使用MATLAB编程环境，并建立了无人机作战领域的相关理论体系。
