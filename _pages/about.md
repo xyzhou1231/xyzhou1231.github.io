@@ -179,17 +179,9 @@ comparative analysis of various algorithms, providing a thorough strategic evalu
 <div class='paper-box-text' markdown="1">
   **Integrated Communication Identification Simulation System**(Project led by Shenyang Aircraft Design Institute )
 <br>
-- Pioneered the design of a human-computer interaction interface on the QT platform, leveraging advanced C++ skills; 
-efficiently managed simulation parameters.
+- A human-computer interaction interface for the 1553B (Aviation Onboard Bus Comprehensive System) was designed based on the QT platform, featuring encoding and decoding functionalities as per the 1553B bus protocol. The project utilized C++ language on the QT platform for the design of the human-computer interaction interface, ensuring the accuracy and integrity of data during transmission, reception, storage, and playback.
 <br>
-• Deep-dived into the intricacies of integrated communication identification simulators, mastering transmission modes, 
-data processing logic, and 1553B bus communication.
-<br>
-• Implemented encoding and decoding functionalities as per the 1553B bus protocol, simulating data lifecycle processes—
-transmission, reception, storage, and playback.
-<br>
-• Authored a comprehensive 61-page research report detailing the system's functionality, challenges encountered, and 
-solutions implemented.
+- As the student leader of the project, I oversaw and participated in the entire process. Throughout the project, I mastered the C++ programming language and became proficient in using the QT platform.
 
 
 </div>
