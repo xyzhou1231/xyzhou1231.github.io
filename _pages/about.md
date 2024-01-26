@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
+&nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 1997. During the year 2016 to 2020, I was pursuing my Bachelor's Degree at Xi’an University of Technology. During the years 2021 to 2024, I am pursuing a master's degree in Electronic Information Engineering at Northwestern Polytechnical University. At this time, I am looking for a PhD position that is a suitable fit for me.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Deep Learning, Machine Learning, UAV, Deep Reinforcement Learning, Intelligent Agent Collaborative Control, Signal Processing, Mathematical Modeling etc. 
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
@@ -28,14 +28,14 @@ I am currently finding a PhD position suitable for me
 <a href="show/xyzhouCV_en.pdf">Click here to view my CV</a>
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
+- *2021.09 - 2024.04 (now)*, Northwestern Polytechnic University, Master, Electronic Information Engineering, 20/143
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Master_Dissertation.pdf">Research on Task Allocation and Path Planning for Multi-UAV Systems Cluster.</a>
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Master_Dissertation.pdf">Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.</a>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Master.pdf">National Scholarship for Graduate Students, Academic First Class Scholarship, First Class Scholarship at School Level, etc.</a>
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Simulation Study of Brainstorming Optimization Algorithm in Path Optimization Problems</a>(Outstanding Graduation Thesis)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Bachelor.pdf">Scholarship from the School of Electronic Information</a>(twice)
 
