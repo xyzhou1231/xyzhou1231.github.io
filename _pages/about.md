@@ -115,8 +115,7 @@ Competition for College Students
 - *2022.06*, Second prize in the 2022 “Aoxiang Cup” Graduate Electronics Design Competition of Northwestern Polytechnical 
 University
 - *2018.10*, Third prize in the 2018 “Li’ao Cup” Science and Technology Competition of Xi’an University of Technology
-<br>
-<a href="show/certificate.pdf">Click here to view my competition certificate</a>
+
 
 
 
