@@ -38,11 +38,10 @@ I have published several papers in related academic fields.
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: Simulation Study of Brainstorming Optimization Algorithm in Path Optimization Problems(Outstanding Graduation Thesis)
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 I was awarded the National Scholarship for Graduate Students with the first place in my major.
-- *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
-- *2023.07*: &nbsp;🎉🎉 My conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been accepted by ICCSI.
-- *2023.07*: &nbsp;🎉🎉 National Second Prize in the Mathematical and Statistical Analysis Competition. 
-- *2023.07*: &nbsp;🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition.
+- *2024.01*: &nbsp;🎉🎉 My manuscript, “Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction”, has been submited by IEEE Sensors Journal.
+- *2023.09*: &nbsp;🎉🎉 I have been granted the Excellent Graduate title at Northwestern Polytechnical University.
+- *2022.09*: &nbsp;🎉🎉 My conference, “Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method”, has been published by ICAUS(International Conference on Autonomous Unmanned Systems).
+
 
 
 # 📝 Publications 
@@ -105,33 +104,7 @@ Hierarchical Analysis Method (EI, ICAUS)
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
 
 
-• (Under Review) Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images, IEEE 
-Sensors Journal (SCI Q2)
-
-
-
-
-
-
-**Zhuoyong Shi***, Liuming Yang, Yong Wu, et al. Design of motion pattern recognition system based on artificial intelligence methods [C], 2023 IEEE International Conference on Cyber-physical Social Intelligence.
-<br>
-DOI: 10.1109/ICCSI58851.2023.10303805
-<br>
-**Zhuoyong Shi***, et al. Autonomous Security Evaluation Model for UAV Based on Airborne Information [C], 2023 IEEE International Conference on Information Communication and Signal Processing. (accepted)
-<br>
-DOI: 
-<br>
-Anli Zhang, Meng Xie, **Zhuoyong Shi**, et al. Design of Intelligent Elevator Control System Based on Space Occupancy Determination [J], Application of Electronic Technique. (PKU IF=1.11)
-<br>
-DOI: 10.16157/j.issn.0258-7998.201037
-<br>
-Anli Zhang, **Zhuoyong Shi**, et al. An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System [P], Invention Patent in China. (Authorized) 
-<br>
-Patent No: CN202310946630.7
-<br>
-Meng Xie, Ze Hui, Anli Zhang, Zhuoyong Shi. Design of Intelligent WIFI Car Control System Based on LabVIEW [J]. Automation & Instrumentation. (PKU IF=1.03)
-<br>
-DOI: 10.19557/j.cnki.1001-9944.2020.12.005
+(Under Review)**Zhou X**, Shi Z.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
 
 
 
