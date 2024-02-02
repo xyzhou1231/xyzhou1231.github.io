@@ -32,7 +32,7 @@ I have published several papers in related academic fields.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Master_Dissertation.pdf">Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.</a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Master.pdf">National Scholarship for Graduate Students, Academic First Class Scholarship, First Class Scholarship at School Level, etc.</a>
+&nbsp;&nbsp;&nbsp;&nbsp;Scholarship:Second Class Scholarship at School Level.
 - *2016.09 - 2020.06*, Xi’an University of Technology Bachelor, Electronic Information Engineering, 5/79
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: Simulation Study of Brainstorming Optimization Algorithm in Path Optimization Problems(Outstanding Graduation Thesis)
