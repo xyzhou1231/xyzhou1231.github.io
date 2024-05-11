@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 Biographies
+# 👩‍🎓Biographies
 &nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 1997. During the year 2016 to 2020, I was pursuing my Bachelor's Degree at Xi’an University of Technology. During the years 2021 to 2024, I am pursuing a master's degree in Electronic Information Engineering at Northwestern Polytechnical University.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Deep Learning, Machine Learning, UAV, Deep Reinforcement Learning, Intelligent Agent Collaborative Control, Signal Processing, Mathematical Modeling etc. 
