@@ -25,7 +25,7 @@ I have published several papers in related academic fields.
 ([Google Scholar](https://scholar.google.com/citations?user=_5hM6mIAAAAJ&hl=en))
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;I am currently finding a PhD position suitable for me
-<a href="show/CV-Xingyu Zhou2.5.pdf">Click here to view my CV</a>
+<a href="show/CV-Xingyu Zhou.pdf">Click here to view my CV</a>
 
 # 📖 Educations
 - *2021.09 - 2024.04 (now)*, Northwestern Polytechnic University, Master, Electronic Information Engineering, 20/143
