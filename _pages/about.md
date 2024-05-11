@@ -38,6 +38,7 @@ I have published several papers in related academic fields.
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: Simulation Study of Brainstorming Optimization Algorithm in Path Optimization Problems(Outstanding Graduation Thesis)
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 I have been granted the Outstanding Graduates of Northwestern Polytechnical University.
 - *2024.01*: &nbsp;🎉🎉 My manuscript, “Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction”, has been submited by IEEE Sensors Journal.
 - *2023.09*: &nbsp;🎉🎉 I have been granted the Excellent Graduate title at Northwestern Polytechnical University.
 - *2022.09*: &nbsp;🎉🎉 My conference, “Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method”, has been published by ICAUS(International Conference on Autonomous Unmanned Systems).
@@ -158,9 +159,9 @@ University
 <!-- 无人机自主对地攻击评价体系项目 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/对地打击.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
- **Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design**
+ **Research on the Evaluation System of Autonomous Ground Attack by UAV Combat**
   <br>
-  (Project led by Chengdu Aircraft Design Institute )
+  (Project led by China Flight Test Institute )
 <br>
 - The project evaluates the autonomous ground attack capabilities of unmanned aerial vehicles (UAVs), establishing an assessment model that includes multi-level evaluation indicators for UAVs. Utilizing the Analytic Hierarchy Process (AHP), the project established the weightings for the UAV ground attack capability indicators. Based on MATLAB, a GUI panel for scoring the autonomous ground attack capabilities of UAVs was designed, forming a more scientific and comprehensive assessment system for these capabilities.
 <br>
