@@ -102,15 +102,15 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 <!-- 带图文章结束，下面是不带图的 -->
 
 
-**Xingyu Zhou**,et al. Evaluation of Autonomous Capability of Ground Attack UAV Based on 
+[1]**Xingyu Zhou**,et al. Evaluation of Autonomous Capability of Ground Attack UAV Based on 
 Hierarchical Analysis Method (EI, ICAUS)
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
-Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
+[2]Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
 [DOI:org/10.1109/ICCIA59741.2023.00019](https://ieeexplore.ieee.org/document/10387886)
-Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images (IEEE Sensors Journal)
+[3]Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images (IEEE Sensors Journal)
 [DOI:org/10.1109/JSEN.2024.3393750](https://ieeexplore.ieee.org/abstract/document/10517355)
-(Under Review)**Zhou X**, Shi Z.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
-Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. ZL202205096301)
+[4](Under Review)**Zhou X**, Shi Z.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
+[5]Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. ZL202205096301)
 
 
 
