@@ -115,7 +115,7 @@ Hierarchical Analysis Method (EI, ICAUS)
 
 <br>
 
-- (Under Review)**Zhou X**, Shi Z.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
+- (Under Review)**Xingyu Zhou**,et al.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
 
 <br>
 
