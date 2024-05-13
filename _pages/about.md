@@ -167,7 +167,7 @@ University
 </div>
 
 <!-- 无人机自主对地攻击评价体系项目 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/对地打击.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020/11-2021/12</div><img src='images/对地打击.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  **Research on the Evaluation System of Autonomous Ground Attack by UAV Combat**
   <br>
