@@ -39,10 +39,10 @@ I have published several papers in related academic fields.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 My manuscript, “Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images”, has been published by IEEE Sensors Journal.
-- *2024.04*: &nbsp;🎉🎉 I have been granted the Outstanding Graduates of Northwestern Polytechnical University.
+- *2024.04*: &nbsp;🎊🎊 I have been granted the Outstanding Graduates of Northwestern Polytechnical University.
 - *2024.01*: &nbsp;🎉🎉 My conference, “Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment”, has been published by ICCIA(2023 8th International Conference on Computational Intelligence and Applications).
 - *2024.01*: &nbsp;🎉🎉 My manuscript, “Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction”, has been submited by IEEE Sensors Journal.
-- *2023.09*: &nbsp;🎉🎉 I have been granted the Excellent Graduate title at Northwestern Polytechnical University.
+- *2023.09*: &nbsp;🎊🎊 I have been granted the Excellent Graduate title at Northwestern Polytechnical University.
 - *2022.09*: &nbsp;🎉🎉 My conference, “Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method”, has been published by ICAUS(International Conference on Autonomous Unmanned Systems).
 
 
@@ -105,18 +105,22 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 [1]**Xingyu Zhou**,et al. Evaluation of Autonomous Capability of Ground Attack UAV Based on 
 Hierarchical Analysis Method (EI, ICAUS)
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
+<br>
 [2]Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
 [DOI:org/10.1109/ICCIA59741.2023.00019](https://ieeexplore.ieee.org/document/10387886)
+<br>
 [3]Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images (IEEE Sensors Journal)
 [DOI:org/10.1109/JSEN.2024.3393750](https://ieeexplore.ieee.org/abstract/document/10517355)
+<br>
 [4](Under Review)**Zhou X**, Shi Z.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
+<br>
 [5]Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. ZL202205096301)
 
 
 
 
 
-# 🎖 Awards
+# 🏅 Awards
 - *2022.09*, Third prize in the category of Technology Breakthroughs of the 2022 CASIC “Zhixin Cup” Innovation and Creativity 
 Competition for College Students
 - *2022.06*, Second prize in the 2022 “Aoxiang Cup” Graduate Electronics Design Competition of Northwestern Polytechnical 
