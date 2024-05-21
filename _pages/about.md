@@ -28,7 +28,7 @@ I have published several papers in related academic fields.
 （ <a href="show/CV-Xingyu Zhou.pdf">Click here to view my CV</a>）
 
 # 📖 Educations
-- *2021.09 - 2024.04 (now)*, Northwestern Polytechnic University, Master, Electronic Information Engineering, 20/143
+- *2021.09 - 2024.04 (now)*, Northwestern Polytechnical University, Master, Electronic Information Engineering, 20/143
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Master_Dissertation.pdf">Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.</a>
 <br>
