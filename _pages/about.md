@@ -28,12 +28,12 @@ I have published several papers in related academic fields.
 （ <a href="show/CV-Xingyu Zhou.pdf">Click here to view my CV</a>）
 
 # 📖 Educations
-- *2021.09 - 2024.04*, Northwestern Polytechnical University, Master, Electronic Information Engineering, 20/143
+- *2021.09 - 2024.04*, Northwestern Polytechnical University, Master, Electronic Information Engineering, Ranking: 20/143
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Master_Dissertation.pdf">Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.</a>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Scholarship:Second Class Scholarship at School Level.
-- *2016.09 - 2020.06*, Xi’an University of Technology Bachelor, Electronic Information Engineering, 5/79
+- *2016.09 - 2020.06*, Xi’an University of Technology Bachelor, Electronic Information Engineering, Ranking: 5/79
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: Simulation Study of Brainstorming Optimization Algorithm in Path Optimization Problems(Outstanding Graduation Thesis)
 <br>
