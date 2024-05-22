@@ -114,7 +114,7 @@ Hierarchical Analysis Method (EI, ICAUS)
 - Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images (IEEE Sensors Journal)
 [DOI:org/10.1109/JSEN.2024.3393750](https://ieeexplore.ieee.org/abstract/document/10517355)
 <br>
-- (Under Review)**Xingyu Zhou**,et al.Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction [J], IEEE Sensors Journal.
+- (Under Review)**Xingyu Zhou**,et al.UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm [J], IEEE Sensors Journal.
 <br>
 - Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. ZL202205096301)
 
