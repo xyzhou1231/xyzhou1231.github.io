@@ -114,7 +114,7 @@ Hierarchical Analysis Method (EI, ICAUS)
 - Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
 [DOI:org/10.1109/ICCIA59741.2023.00019](https://ieeexplore.ieee.org/document/10387886)
 <br>
-- (Under Review)**Xingyu Zhou**,et al.UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm  (SCI, IEEE Sensors Journal, JCRQ1 IF=4.3)
+- (Under Review)**Xingyu Zhou**,et al.UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm  (SCI, Drones, JCRQ1 IF=4.4)
 <br>
 - Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. ZL202205096301)
 
