@@ -186,7 +186,7 @@ University
 </div>
 </div>
 
-
+<!--
 <!-- 编队协同智能空战战术决策毕业论文 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/4V4_air_combat.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -201,3 +201,4 @@ University
 
 <br>
 - The simulation results indicate that the improved hierarchical reinforcement learning model proposed by this research can effectively make coordinated aerial combat decisions for UAV formations. Moreover, compared to the traditional Option-Critic model, the proposed model demonstrates effective convergence performance and is capable of effectively countering enemy aircraft.
+-->
