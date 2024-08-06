@@ -135,8 +135,8 @@ University
 
 # 💻 Experience
 <!-- 编队协同智能空战战术决策项目介绍 -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/编队协同战术决策.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/4V4_AIRCOMBAT.gif' alt="sym" width="100%"></div></div> 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/编队协同战术决策.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/4V4_AIRCOMBAT.gif' alt="sym" width="100%"></div></div>  -->
 <div class='paper-box-text' markdown="1">
  **Formation Collaboration Intelligent Tactical Decision Model and Interoperability Design**
   <br>
