@@ -188,7 +188,7 @@ University
 
 
 <!-- 编队协同智能空战战术决策毕业论文 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='show/4V4_air_combat.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023/04-2023/09</div><img src='images/4V4_air_combat.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  **Research on UAV Air Combat Decision-Making Based on Hierarchical Reinforcement Learning**
   <br>
