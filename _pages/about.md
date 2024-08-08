@@ -134,12 +134,9 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 - *2020.01*, Annual Scholarship of Xi'an University of Technology 
 - *2019.12*, Outstanding Student at Xi'an University of Technology 	
 - *2019.12*, Advanced Individual of Diligent Study at Xi'an University of Technology  	
-- *2018.11*, "Li'ao Cup" Science and Technology Competition of Xi'an University of Technology  
+- *2018.11*, "Li'ao Cup" Science and Technology Competition of Xi'an University of Technology 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;School-level Third Prize
-- *2022.08*, "Aoxiang Cup" Postgraduate Electronic Design Competition 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;School-level Second Prize in the Technical Category
+&nbsp;&nbsp;&nbsp;&nbsp;School-level Third Prize 
 - *2017.05*, Outstanding Youth League Member at Xi'an University of Technology
 
 
