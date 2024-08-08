@@ -125,7 +125,7 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 - *2022.11*, "Zhixin Cup" Innovation and Creativity Competition by the Third Academy of Aerospace 	
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;National Third Prize in the Technical Challenge Category 
-- *2022.08*, "Aoxiang Cup" Postgraduate Electronic Design Competition 	Jun. 2022
+- *2022.08*, "Aoxiang Cup" Postgraduate Electronic Design Competition 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;School-level Second Prize in the Technical Category 
 - *2022.08*, Outstanding Lecturer of Northwestern Polytechnical University  
