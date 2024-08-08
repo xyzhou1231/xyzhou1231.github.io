@@ -103,7 +103,6 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 -->
 <!-- 带图文章结束，下面是不带图的 -->
 
-
 - **Xingyu Zhou**,et al. Evaluation of Autonomous Capability of Ground Attack UAV Based on 
 Hierarchical Analysis Method (EI, ICAUS)
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
@@ -115,8 +114,6 @@ Hierarchical Analysis Method (EI, ICAUS)
 <br>
 - Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
 [DOI:org/10.1109/ICCIA59741.2023.00019](https://ieeexplore.ieee.org/document/10387886)
-<br>
-- (Major Revisions)**Xingyu Zhou**,et al.UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm  (SCI, Drones, JCRQ1 IF=4.4)
 <br>
 - Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. ZL202205096301)
 
