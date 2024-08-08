@@ -103,15 +103,15 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 -->
 <!-- 带图文章结束，下面是不带图的 -->
 
-- **Xingyu Zhou**,et al. Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method (EI, ICAUS)
+- **Xingyu Zhou**, et al. "Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method." International Conference on Autonomous Unmanned Systems. Singapore: Springer Nature Singapore, 2022.
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
 <br>
-- (Major Revisions)**Xingyu Zhou**,et al.UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm  (SCI, Drones, JCRQ1 IF=4.8)
+- **Xingyu Zhou**, et al. "UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm." (Drones, SCI Q1 IF=4.8, Major Revision)
 <br>
-- Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images (SCI, IEEE Sensors Journal, JCRQ1 IF=4.3)
+- Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. "Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images." IEEE Sensors Journal, 2024. (SCI Q1 IF=4.3)
 [DOI:org/10.1109/JSEN.2024.3393750](https://ieeexplore.ieee.org/abstract/document/10517355)
 <br>
-- Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
+- Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. "Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment." 2023 8th International Conference on Computational Intelligence and Applications (ICCIA). IEEE, 2023.
 [DOI:org/10.1109/ICCIA59741.2023.00019](https://ieeexplore.ieee.org/document/10387886)
 <br>
 - Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV
