@@ -24,7 +24,7 @@ redirect_from:
 I have published several papers in related academic fields.
 ([Google Scholar](https://scholar.google.com/citations?user=_5hM6mIAAAAJ&hl=en))
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently finding a PhD position suitable for me.
+&nbsp;&nbsp;&nbsp;&nbsp;I am currently finding a Ph.D. position suitable for me.
 （<a href="show/CV-Xingyu Zhou.pdf">Click here to view my CV</a>）
 
 # 📖 Educations
@@ -119,11 +119,25 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 
 
 # 🏅 Awards
-- *2022.09*, Third prize in the category of Technology Breakthroughs of the 2022 CASIC “Zhixin Cup” Innovation and Creativity 
-Competition for College Students
-- *2022.06*, Second prize in the 2022 “Aoxiang Cup” Graduate Electronics Design Competition of Northwestern Polytechnical 
-University
-- *2018.10*, Third prize in the 2018 “Li’ao Cup” Science and Technology Competition of Xi’an University of Technology
+- *2024.03*, Outstanding Graduate of Northwestern Polytechnical University  	
+- *AY 2022-2023*, Outstanding Postgraduate of Northwestern Polytechnical University (Twice) 	
+- *AY 2021-2023*, Second Prize Scholarship of Northwestern Polytechnical University (Thrice) 	
+- *2022.11*, "Zhixin Cup" Innovation and Creativity Competition by the Third Academy of Aerospace 	
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;National Third Prize in the Technical Challenge Category 
+- *2022.08*, "Aoxiang Cup" Postgraduate Electronic Design Competition 	Jun. 2022
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;School-level Second Prize in the Technical Category 
+- *2022.08*, Outstanding Lecturer of Northwestern Polytechnical University  
+- *AY 2022-2023*, Excellent Member of the Communist Youth League (Twice)	
+- *2022.11*, Outstanding Graduation Thesis at Xi'an University of Technology   	
+- *2020.01*, Annual Scholarship of Xi'an University of Technology 
+- *2019.12*, Outstanding Student at Xi'an University of Technology 	
+- *2019.12*, Advanced Individual of Diligent Study at Xi'an University of Technology  	
+- *2018.11*, "Li'ao Cup" University Science and Technology Competition of Xi'an University of Technology  
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;School-level Third Prize
+- *2017.05*, Outstanding Youth League Member at Xi'an University of Technology
 
 
 
