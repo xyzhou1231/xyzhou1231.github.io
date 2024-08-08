@@ -114,7 +114,8 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 - Yang Liu, Jiandong Zhang*, Kaibo Zhang, **Xingyu Zhou**. Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment (EI, ICCIA)
 [DOI:org/10.1109/ICCIA59741.2023.00019](https://ieeexplore.ieee.org/document/10387886)
 <br>
-- Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV (Patent No. CN202210605405.2)(https://kns.cnki.net/kcms2/article/abstract?v=kxD1c6RDvBwRkARE8AqvyumIXM2RTlTidpkUO-suhE8c90dMGAXfHf01axpVu7rRLHG-13EmK8gQpL71tWXknv68_oYtBUpbaTJPCyrQm6sXVOu_iYd5SI0WSe0UfOc3IqxcdI65usKqInHxDp9goV6yB4E4nB5wWdUYPyHorHJN3FUvbDMoPvbchhWgMSJnc-4Id8_tMG02qDjk6qHtttG9zNhdMvvF&uniplatform=NZKPT&language=CHS)
+- Jiandong Zhang, Qiming Yang, Zibing Du, **Xingyu Zhou**, et al. Evaluation Method for Autonomous Ground Attack Capability of UAV
+([Patent No. CN202210605405.2]([https://scholar.google.com/citations?user=_5hM6mIAAAAJ&hl=en](https://kns.cnki.net/kcms2/article/abstract?v=kxD1c6RDvBwRkARE8AqvyumIXM2RTlTidpkUO-suhE8c90dMGAXfHf01axpVu7rRLHG-13EmK8gQpL71tWXknv68_oYtBUpbaTJPCyrQm6sXVOu_iYd5SI0WSe0UfOc3IqxcdI65usKqInHxDp9goV6yB4E4nB5wWdUYPyHorHJN3FUvbDMoPvbchhWgMSJnc-4Id8_tMG02qDjk6qHtttG9zNhdMvvF&uniplatform=NZKPT&language=CHS)))
 
 
 # 🏅 Awards
