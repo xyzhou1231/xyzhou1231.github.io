@@ -40,6 +40,7 @@ I have published several papers in related academic fields.
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Scholarship (2017-2019).
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 My manuscript, “Improved Grey Wolf Algorithm: A Method for UAVs Path Planning”, has been accepted by Drones.
 - *2024.05*: &nbsp;🎉🎉 My manuscript, “Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images”, has been published by IEEE Sensors Journal.
 - *2024.04*: &nbsp;🎊🎊 I have been granted the Outstanding Graduates of Northwestern Polytechnical University.
 - *2024.01*: &nbsp;🎉🎉 My conference, “Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment”, has been published by ICCIA(2023 8th International Conference on Computational Intelligence and Applications).
@@ -106,7 +107,7 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 - **Xingyu Zhou**, et al. "Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method." International Conference on Autonomous Unmanned Systems. Singapore: Springer Nature Singapore, 2022.
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
 <br>
-- **Xingyu Zhou**, et al. "UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm." (Drones, SCI Q1 IF=4.8, Major Revision)
+- **Xingyu Zhou**, et al. "UAVs Collaborative Route Planning Based on Improved Grey Wolf Optimisation Algorithm." (Drones, SCI Q1 IF=4.4, Accept)
 <br>
 - Bosong Chai, Xuan Nie*, Qifan Zhou, **Xingyu Zhou**. "Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images." IEEE Sensors Journal, 2024. (SCI Q1 IF=4.3)
 [DOI:org/10.1109/JSEN.2024.3393750](https://ieeexplore.ieee.org/abstract/document/10517355)
