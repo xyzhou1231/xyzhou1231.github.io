@@ -105,7 +105,7 @@ Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382
 <!-- 带图文章结束，下面是不带图的 -->
 
 - **Xingyu Zhou**, et al. "Improved Grey Wolf Algorithm: A Method for UAV Path Planning." Drones, 2024. (SCI Q1 IF=4.8)
-[DOI:org/10.1007/978-981-99-0479-2_97](https://www.mdpi.com/2504-446X/8/11/675)
+[DOI:org/10.3390/drones8110675](https://www.mdpi.com/2504-446X/8/11/675)
 <br>
 - **Xingyu Zhou**, et al. "Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method." International Conference on Autonomous Unmanned Systems. Singapore: Springer Nature Singapore, 2022.
 [DOI:org/10.1007/978-981-99-0479-2_97](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_97)
