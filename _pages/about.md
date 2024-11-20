@@ -40,7 +40,7 @@ I have published several papers in related academic fields.
 &nbsp;&nbsp;&nbsp;&nbsp;Annual Scholarship (2017-2019).
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 My manuscript, “Improved Grey Wolf Algorithm: A Method for UAVs Path Planning”, has been accepted by Drones.
+- *2024.11*: &nbsp;🎉🎉 My manuscript, “Improved Grey Wolf Algorithm: A Method for UAV Path Planning”, has been published by Drones.
 - *2024.05*: &nbsp;🎉🎉 My manuscript, “Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images”, has been published by IEEE Sensors Journal.
 - *2024.04*: &nbsp;🎊🎊 I have been granted the Outstanding Graduates of Northwestern Polytechnical University.
 - *2024.01*: &nbsp;🎉🎉 My conference, “Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment”, has been published by ICCIA(2023 8th International Conference on Computational Intelligence and Applications).
