@@ -24,7 +24,7 @@ redirect_from:
 I have published several papers in related academic fields.
 ([Google Scholar](https://scholar.google.com/citations?user=_5hM6mIAAAAJ&hl=en))
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently finding a Ph.D. position suitable for me.
+&nbsp;&nbsp;&nbsp;&nbsp;I am currently pursuing a Ph.D. at Zhejiang University.
 （<a href="show/CV-Xingyu Zhou.pdf">Click here to view my CV</a>）
 
 # 📖 Educations
