@@ -44,7 +44,6 @@ I have published several papers in related academic fields.
 - *2024.05*: &nbsp;🎉🎉 My manuscript, “Enhanced Cascade R-CNN for Multi-scale Object Detection in Dense Scenes from SAR Images”, has been published by IEEE Sensors Journal.
 - *2024.04*: &nbsp;🎊🎊 I have been granted the Outstanding Graduates of Northwestern Polytechnical University.
 - *2024.01*: &nbsp;🎉🎉 My conference, “Research on Threat Assessment Method of Formation Cooperative Combat in a Complex Environment”, has been published by ICCIA(2023 8th International Conference on Computational Intelligence and Applications).
-- *2024.01*: &nbsp;🎉🎉 My manuscript, “Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction”, has been submited by IEEE Sensors Journal.
 - *2023.09*: &nbsp;🎊🎊 I have been granted the Excellent Graduate title at Northwestern Polytechnical University.
 - *2022.09*: &nbsp;🎉🎉 My conference, “Evaluation of Autonomous Capability of Ground Attack UAV Based on Hierarchical Analysis Method”, has been published by ICAUS(International Conference on Autonomous Unmanned Systems).
 
