@@ -31,7 +31,7 @@ I have published several papers in related academic fields.
 - *2021.09 - 2024.04*, Northwestern Polytechnical University, Master, Electronic Information Engineering, Ranking: 20/143
 <br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;Dissertation:<a href="show/Master_Dissertation.pdf">Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.</a> -->
-&nbsp;&nbsp;&nbsp;&nbsp;Dissertation:Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: Research on Tactical Decision-Making Models for Coordinated Squadron-Based Intelligent Aerial Combat.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Scholarship:Second Class Scholarship at School Level.
 - *2016.09 - 2020.06*, Xi’an University of Technology Bachelor, Electronic Information Engineering, Ranking: 5/79
